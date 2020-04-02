@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pert_jar</output-path>
+    <root id="archive" name="pert.jar">
+      <element id="module-output" name="pert" />
+    </root>
+  </artifact>
+</component>
